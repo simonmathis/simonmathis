@@ -55,19 +55,23 @@
 
 ---
 
-### 🤝 Let’s Connect
+### 📬 Let's Connect
 
 <p align="left">
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%230A0A0A.svg?style=flat&logo=firefox&logoColor=white" alt="Portfolio" style="border-radius: 8px;" />
   </a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white" alt="Email" style="border-radius: 8px;" />
   </a>
-  <a href="https://discord.com/users/your-discord-id" target="_blank">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://discordapp.com/users/YourDiscordID" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" alt="Discord" style="border-radius: 8px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 8px;" />
   </a>
 </p>
+
 
 ---
 
