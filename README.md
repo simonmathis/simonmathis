@@ -1,13 +1,13 @@
-## 👋 Hey there, I'm [Your Name]
+<h1 align="center">Hey there 👋, I'm [Your Name]</h1>
+<h3 align="center">💻 Freelance Web Developer &nbsp;&nbsp;|&nbsp;&nbsp; 🔥 Passionate Coder &nbsp;&nbsp;|&nbsp;&nbsp; 🇬🇧 Based in the UK &nbsp;&nbsp;|&nbsp;&nbsp; 🧑‍💻 Age 18</h3>
 
-💻 Freelance Web Developer  
-🔥 Passionate Coder  
-🇬🇧 Based in the UK  
-🧑‍💻 Age 18
+<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:myemail@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+
+</div>
 
 
 
