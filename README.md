@@ -55,20 +55,13 @@
 
 ## 📫 Socials
 
-<p align="left">
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%230A0A0A.svg?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio" style="border-radius: 6px;" />
-  </a>
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white" alt="Email" style="border-radius: 6px;" />
-  </a>
-  <a href="https://discordapp.com/users/YourDiscordID" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white" alt="Discord" style="border-radius: 6px;" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 6px;" />
-  </a>
-</p>
+Contact me here → [myemail@example.com](mailto:myemail@example.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:myemail@example.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/YourDiscordID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+
 
 
 
