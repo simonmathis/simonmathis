@@ -1,18 +1,13 @@
-<h1 align="center">Hey there 👋, I'm [Your Name]</h1>
-<h3 align="center">💻 Freelance Web Developer | 🔥 Passionate Coder | 🇬🇧 Based in the UK | Age 18</h3>
+## 👋 Hey there, I'm [Your Name]
 
-<p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:myemail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+💻 Freelance Web Developer  
+🔥 Passionate Coder  
+🇬🇧 Based in the UK  
+🧑‍💻 Age 18
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:myemail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 
 
 
