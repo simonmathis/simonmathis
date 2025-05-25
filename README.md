@@ -3,15 +3,16 @@
 
 <p align="center">
   <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%230A0A0A.svg?style=flat&logo=firefox&logoColor=white" alt="Portfolio" style="border-radius: 6px;" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white" alt="Email" style="border-radius: 6px;" />
+  <a href="mailto:myemail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 6px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
 
 
 ---
