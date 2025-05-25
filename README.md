@@ -25,22 +25,19 @@
 
 ---
 
-### 🧰 Tech Stack
+## 💻 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/typescript-%233178C6.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=flat&logo=react&logoColor=black" alt="React" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white" alt="Node.js" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/express.js-%23000000.svg?style=flat&logo=express&logoColor=white" alt="Express.js" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" alt="PHP" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/postgresql-%234169E1.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" style="border-radius: 8px;" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C" style="border-radius: 8px;" />
-</p>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express-%23000000.svg?style=flat&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+
 
 
 
