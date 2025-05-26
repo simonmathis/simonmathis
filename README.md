@@ -1,5 +1,5 @@
-<h1 align="center">Hey there 👋, I'm [Your Name]</h1>
-<h3 align="center">💻 Freelance Web Developer &nbsp;&nbsp;|&nbsp;&nbsp; 🔥 Passionate Coder &nbsp;&nbsp;|&nbsp;&nbsp; 🇬🇧 Based in the UK &nbsp;&nbsp;|&nbsp;&nbsp; 🧑‍💻 Age 18</h3>
+<h1 align="center">Hey there 👋, I'm Simon</h1>
+<h3 align="center">Web Developer &nbsp;&nbsp;|&nbsp;&nbsp; Passionate Coder &nbsp;&nbsp;|&nbsp;&nbsp; Based in the UK &nbsp;&nbsp;|&nbsp;&nbsp; Age 18</h3>
 
 <div align="center">
 
