@@ -9,7 +9,7 @@
 
 </div>
 
-<div style="height:1px; background-color:#f0f0f0; margin:16px 0;"></div>
+<div style="height:1px; background-color:rgba(255, 255, 255, 0.1); margin:16px 0;"></div>
 
 ### 🧠 About Me
 
