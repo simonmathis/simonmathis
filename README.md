@@ -14,9 +14,6 @@
 ---- About Me ----
 ```
 
-
-### 🧠 About Me
-
 - 🎓 Self-taught developer with a passion for full-stack web development  
 - 🛠️ Currently building client websites as a freelancer  
 - 🔎 Always learning new tools, libraries, and frameworks  
