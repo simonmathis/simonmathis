@@ -33,7 +33,10 @@
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 
 
-### 📈 GitHub Stats
+```python
+>>> print("---- Github Stats ----")
+---- Github Stats ----
+```
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
