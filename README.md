@@ -9,7 +9,7 @@
 
 </div>
 
-<hr style="border: none; border-top: 0.5px solid #e0e0e0;" />
+<div style="height:1px; background-color:#f0f0f0; margin:16px 0;"></div>
 
 ### 🧠 About Me
 
