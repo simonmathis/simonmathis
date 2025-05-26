@@ -4,8 +4,8 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:myemail@example.com)
-[![Twitter (X)](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/your-profile)
+[![Email](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:myemail@example.com)
+[![Twitter (X)](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/your-profile)
 
 </div>
 
