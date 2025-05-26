@@ -9,7 +9,6 @@
 
 </div>
 
----
 
 ### 🧠 About Me
 
@@ -17,7 +16,6 @@
 - 🛠️ Currently building client websites as a freelancer  
 - 🔎 Always learning new tools, libraries, and frameworks  
 
----
 
 ## 💻 Tech Stack
 
@@ -33,10 +31,6 @@
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 
 
-
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -45,7 +39,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
 
 ## 📫 Socials
 
@@ -56,12 +49,6 @@ Contact me here → [myemail@example.com](mailto:myemail@example.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/YourDiscordID)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 
-
-
-
-
-
----
 
 <p align="center">
   ⭐ Thanks for visiting — feel free to explore my projects, drop a star, or reach out for collaborations!
