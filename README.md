@@ -9,6 +9,7 @@
 
 </div>
 
+<hr style="border: 0; height: 1px; background-color: #ccc;" />
 
 ### 🧠 About Me
 
