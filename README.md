@@ -9,7 +9,7 @@
 
 </div>
 
->>> -------------------------
+<pre> ```python >>> print("---- About Me ----") ---- About Me ---- ``` </pre>
 
 
 ### 🧠 About Me
