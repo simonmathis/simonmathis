@@ -32,7 +32,6 @@
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 
-<hr style="border: none; border-top: 0.5px solid #e0e0e0;" />
 
 ### 📈 GitHub Stats
 
