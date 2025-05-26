@@ -1,5 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Simon</h1>
 <h3 align="center">Web Developer &nbsp;&nbsp;|&nbsp;&nbsp; Passionate Coder &nbsp;&nbsp;|&nbsp;&nbsp; Based in the UK &nbsp;&nbsp;|&nbsp;&nbsp; Age 18</h3>
+
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
@@ -7,8 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 
 </div>
-
-
 
 ---
 
