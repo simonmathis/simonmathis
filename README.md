@@ -14,13 +14,6 @@
 ---- About Me ----
 ```
 
-```jsx
-const AboutUs = () => {
-  return <h1>---- About Us ----</h1>;
-};
-
-export default AboutUs;
-```
 
 - 🎓 Self-taught developer with a passion for full-stack web development  
 - 🛠️ Currently building client websites as a freelancer  
